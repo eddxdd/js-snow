@@ -1,7 +1,3 @@
-# Snow
+https://eddxdd.github.io/js-snow/
 
-* Purpose of this project was for me to practice using Canvas/JS
-
-* https://eddxdd.github.io/Snow/
-
-// A simple black snow animation
+JavaScript/Canvas project.
